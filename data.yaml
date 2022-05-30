@@ -1,0 +1,5 @@
+train: C:\Users\dbtmd\Downloads\yolov5-master\data\dataset\train\images
+val: C:\Users\dbtmd\Downloads\yolov5-master\data\dataset\valid\images
+
+nc: 3
+names: ['carton', 'papers', 'tetra']
